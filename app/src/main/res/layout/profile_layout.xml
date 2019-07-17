@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools">
+
+    <TextView
+        android:id="@+id/tv_track"
+        android:layout_width="177dp"
+        android:layout_height="38dp"
+        android:layout_marginTop="292dp"
+        android:fontFamily="@font/aclonica"
+        android:text="@string/track"
+        android:textAlignment="center"
+        android:textColor="#141313"
+        android:textSize="18sp"
+        android:textStyle="normal"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <TextView
+        android:id="@+id/tv_country"
+        android:layout_width="177dp"
+        android:layout_height="38dp"
+        android:layout_marginTop="19dp"
+        android:fontFamily="@font/aclonica"
+        android:text="@string/country"
+        android:textAlignment="center"
+        android:textColor="#141313"
+        android:textSize="18sp"
+        android:textStyle="normal"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/tv_track" />
+
+    <TextView
+        android:id="@+id/tv_email"
+        android:layout_width="163dp"
+        android:layout_height="38dp"
+        android:layout_marginTop="22dp"
+        android:fontFamily="@font/aclonica"
+        android:text="@string/email"
+        android:textAlignment="center"
+        android:textColor="#141313"
+        android:textSize="18sp"
+        android:textStyle="normal"
+        android:visibility="visible"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/tv_country" />
+
+    <TextView
+        android:id="@+id/tv_phone"
+        android:layout_width="177dp"
+        android:layout_height="38dp"
+        android:layout_marginTop="16dp"
+        android:fontFamily="@font/aclonica"
+        android:text="@string/phone"
+        android:textAlignment="center"
+        android:textColor="#141313"
+        android:textSize="18sp"
+        android:textStyle="normal"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/tv_slack" />
+
+    <TextView
+        android:id="@+id/tv_slack"
+        android:layout_width="177dp"
+        android:layout_height="38dp"
+        android:layout_marginTop="20dp"
+        android:fontFamily="@font/aclonica"
+        android:text="@string/slack"
+        android:textAlignment="center"
+        android:textColor="#141313"
+        android:textSize="18sp"
+        android:textStyle="normal"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/tv_email" />
+
+    <TextView
+        android:id="@+id/tv_android"
+        android:layout_width="177dp"
+        android:layout_height="38dp"
+        android:layout_marginTop="292dp"
+        android:fontFamily="@font/aclonica"
+        android:text="@string/android"
+        android:textAlignment="center"
+        android:textColor="#253EC5"
+        android:textSize="18sp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.245"
+        app:layout_constraintStart_toEndOf="@+id/tv_track"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <TextView
+        android:id="@+id/tv_nigeria"
+        android:layout_width="179dp"
+        android:layout_height="38dp"
+        android:layout_marginTop="16dp"
+        android:fontFamily="@font/aclonica"
+        android:text="@string/nigeria"
+        android:textAlignment="center"
+        android:textColor="#253EC5"
+        android:textSize="18sp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.438"
+        app:layout_constraintStart_toEndOf="@+id/tv_country"
+        app:layout_constraintTop_toBottomOf="@+id/tv_android" />
+
+    <TextView
+        android:id="@+id/tv_mail"
+        android:layout_width="240dp"
+        android:layout_height="38dp"
+        android:layout_marginTop="24dp"
+        android:fontFamily="@font/aclonica"
+        android:text="@string/mail"
+        android:textAlignment="center"
+        android:textColor="#253EC5"
+        android:textSize="18sp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="1.0"
+        app:layout_constraintStart_toEndOf="@+id/tv_email"
+        app:layout_constraintTop_toBottomOf="@+id/tv_nigeria" />
+
+    <TextView
+        android:id="@+id/tv_glory"
+        android:layout_width="177dp"
+        android:layout_height="38dp"
+        android:layout_marginTop="20dp"
+        android:fontFamily="@font/aclonica"
+        android:text="@string/glory"
+        android:textAlignment="center"
+        android:textColor="#253EC5"
+        android:textSize="18sp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.28"
+        app:layout_constraintStart_toEndOf="@+id/tv_slack"
+        app:layout_constraintTop_toBottomOf="@+id/tv_mail" />
+
+    <TextView
+        android:id="@+id/tv_num"
+        android:layout_width="181dp"
+        android:layout_height="34dp"
+        android:layout_marginTop="20dp"
+        android:fontFamily="@font/aclonica"
+        android:text="@string/number"
+        android:textAlignment="center"
+        android:textColor="#253EC5"
+        android:textSize="18sp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.264"
+        app:layout_constraintStart_toEndOf="@+id/tv_phone"
+        app:layout_constraintTop_toBottomOf="@+id/tv_glory" />
+
+</androidx.constraintlayout.widget.ConstraintLayout>
