@@ -1,246 +1,350 @@
 [
     {
-        "merged": "C:\\Users\\USER\\AndroidStudioProjects\\MyApplication1\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_profile.xml.flat",
-        "source": "C:\\Users\\USER\\AndroidStudioProjects\\MyApplication1\\app\\src\\main\\res\\layout\\activity_profile.xml"
+        "merged": "C:\\Users\\USER\\AndroidStudioProjects\\ALC 4 Phase 1\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\USER\\AndroidStudioProjects\\ALC 4 Phase 1\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_round.png"
     },
     {
-        "merged": "C:\\Users\\USER\\AndroidStudioProjects\\MyApplication1\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21_notification_action_tombstone.xml.flat",
-        "source": "C:\\Users\\USER\\.gradle\\caches\\transforms-2\\files-2.1\\a972393a436710bd84f1320057e97e04\\core-1.0.2\\res\\layout-v21\\notification_action_tombstone.xml"
+        "merged": "C:\\Users\\USER\\AndroidStudioProjects\\ALC 4 Phase 1\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_about.xml.flat",
+        "source": "C:\\Users\\USER\\AndroidStudioProjects\\ALC 4 Phase 1\\app\\src\\main\\res\\layout\\activity_about.xml"
     },
     {
-        "merged": "C:\\Users\\USER\\AndroidStudioProjects\\MyApplication1\\app\\build\\intermediates\\res\\merged\\debug\\layout_abc_alert_dialog_title_material.xml.flat",
-        "source": "C:\\Users\\USER\\.gradle\\caches\\transforms-2\\files-2.1\\674b50d7e877da63f04f504ffc11adf3\\appcompat-1.0.2\\res\\layout\\abc_alert_dialog_title_material.xml"
-    },
-    {
-        "merged": "C:\\Users\\USER\\AndroidStudioProjects\\MyApplication1\\app\\build\\intermediates\\res\\merged\\debug\\layout_abc_list_menu_item_checkbox.xml.flat",
+        "merged": "C:\\Users\\USER\\AndroidStudioProjects\\ALC 4 Phase 1\\app\\build\\intermediates\\res\\merged\\debug\\layout_abc_list_menu_item_checkbox.xml.flat",
         "source": "C:\\Users\\USER\\.gradle\\caches\\transforms-2\\files-2.1\\674b50d7e877da63f04f504ffc11adf3\\appcompat-1.0.2\\res\\layout\\abc_list_menu_item_checkbox.xml"
     },
     {
-        "merged": "C:\\Users\\USER\\AndroidStudioProjects\\MyApplication1\\app\\build\\intermediates\\res\\merged\\debug\\layout_abc_action_menu_item_layout.xml.flat",
-        "source": "C:\\Users\\USER\\.gradle\\caches\\transforms-2\\files-2.1\\674b50d7e877da63f04f504ffc11adf3\\appcompat-1.0.2\\res\\layout\\abc_action_menu_item_layout.xml"
-    },
-    {
-        "merged": "C:\\Users\\USER\\AndroidStudioProjects\\MyApplication1\\app\\build\\intermediates\\res\\merged\\debug\\layout_abc_action_mode_bar.xml.flat",
-        "source": "C:\\Users\\USER\\.gradle\\caches\\transforms-2\\files-2.1\\674b50d7e877da63f04f504ffc11adf3\\appcompat-1.0.2\\res\\layout\\abc_action_mode_bar.xml"
-    },
-    {
-        "merged": "C:\\Users\\USER\\AndroidStudioProjects\\MyApplication1\\app\\build\\intermediates\\res\\merged\\debug\\layout_abc_alert_dialog_material.xml.flat",
-        "source": "C:\\Users\\USER\\.gradle\\caches\\transforms-2\\files-2.1\\674b50d7e877da63f04f504ffc11adf3\\appcompat-1.0.2\\res\\layout\\abc_alert_dialog_material.xml"
-    },
-    {
-        "merged": "C:\\Users\\USER\\AndroidStudioProjects\\MyApplication1\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21_notification_template_icon_group.xml.flat",
-        "source": "C:\\Users\\USER\\.gradle\\caches\\transforms-2\\files-2.1\\a972393a436710bd84f1320057e97e04\\core-1.0.2\\res\\layout-v21\\notification_template_icon_group.xml"
-    },
-    {
-        "merged": "C:\\Users\\USER\\AndroidStudioProjects\\MyApplication1\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher_round.png.flat",
-        "source": "C:\\Users\\USER\\AndroidStudioProjects\\MyApplication1\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_round.png"
-    },
-    {
-        "merged": "C:\\Users\\USER\\AndroidStudioProjects\\MyApplication1\\app\\build\\intermediates\\res\\merged\\debug\\layout_select_dialog_singlechoice_material.xml.flat",
-        "source": "C:\\Users\\USER\\.gradle\\caches\\transforms-2\\files-2.1\\674b50d7e877da63f04f504ffc11adf3\\appcompat-1.0.2\\res\\layout\\select_dialog_singlechoice_material.xml"
-    },
-    {
-        "merged": "C:\\Users\\USER\\AndroidStudioProjects\\MyApplication1\\app\\build\\intermediates\\res\\merged\\debug\\layout_abc_action_bar_title_item.xml.flat",
-        "source": "C:\\Users\\USER\\.gradle\\caches\\transforms-2\\files-2.1\\674b50d7e877da63f04f504ffc11adf3\\appcompat-1.0.2\\res\\layout\\abc_action_bar_title_item.xml"
-    },
-    {
-        "merged": "C:\\Users\\USER\\AndroidStudioProjects\\MyApplication1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_ic_launcher_foreground.xml.flat",
-        "source": "C:\\Users\\USER\\AndroidStudioProjects\\MyApplication1\\app\\src\\main\\res\\drawable-v24\\ic_launcher_foreground.xml"
-    },
-    {
-        "merged": "C:\\Users\\USER\\AndroidStudioProjects\\MyApplication1\\app\\build\\intermediates\\res\\merged\\debug\\layout-v26_abc_screen_toolbar.xml.flat",
-        "source": "C:\\Users\\USER\\.gradle\\caches\\transforms-2\\files-2.1\\674b50d7e877da63f04f504ffc11adf3\\appcompat-1.0.2\\res\\layout-v26\\abc_screen_toolbar.xml"
-    },
-    {
-        "merged": "C:\\Users\\USER\\AndroidStudioProjects\\MyApplication1\\app\\build\\intermediates\\res\\merged\\debug\\layout_abc_screen_simple.xml.flat",
-        "source": "C:\\Users\\USER\\.gradle\\caches\\transforms-2\\files-2.1\\674b50d7e877da63f04f504ffc11adf3\\appcompat-1.0.2\\res\\layout\\abc_screen_simple.xml"
-    },
-    {
-        "merged": "C:\\Users\\USER\\AndroidStudioProjects\\MyApplication1\\app\\build\\intermediates\\res\\merged\\debug\\layout_abc_search_view.xml.flat",
-        "source": "C:\\Users\\USER\\.gradle\\caches\\transforms-2\\files-2.1\\674b50d7e877da63f04f504ffc11adf3\\appcompat-1.0.2\\res\\layout\\abc_search_view.xml"
-    },
-    {
-        "merged": "C:\\Users\\USER\\AndroidStudioProjects\\MyApplication1\\app\\build\\intermediates\\res\\merged\\debug\\layout_abc_list_menu_item_layout.xml.flat",
-        "source": "C:\\Users\\USER\\.gradle\\caches\\transforms-2\\files-2.1\\674b50d7e877da63f04f504ffc11adf3\\appcompat-1.0.2\\res\\layout\\abc_list_menu_item_layout.xml"
-    },
-    {
-        "merged": "C:\\Users\\USER\\AndroidStudioProjects\\MyApplication1\\app\\build\\intermediates\\res\\merged\\debug\\layout_select_dialog_item_material.xml.flat",
-        "source": "C:\\Users\\USER\\.gradle\\caches\\transforms-2\\files-2.1\\674b50d7e877da63f04f504ffc11adf3\\appcompat-1.0.2\\res\\layout\\select_dialog_item_material.xml"
-    },
-    {
-        "merged": "C:\\Users\\USER\\AndroidStudioProjects\\MyApplication1\\app\\build\\intermediates\\res\\merged\\debug\\font_aclonica.xml.flat",
-        "source": "C:\\Users\\USER\\AndroidStudioProjects\\MyApplication1\\app\\src\\main\\res\\font\\aclonica.xml"
-    },
-    {
-        "merged": "C:\\Users\\USER\\AndroidStudioProjects\\MyApplication1\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21_notification_action.xml.flat",
-        "source": "C:\\Users\\USER\\.gradle\\caches\\transforms-2\\files-2.1\\a972393a436710bd84f1320057e97e04\\core-1.0.2\\res\\layout-v21\\notification_action.xml"
-    },
-    {
-        "merged": "C:\\Users\\USER\\AndroidStudioProjects\\MyApplication1\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_launcher_background.xml.flat",
-        "source": "C:\\Users\\USER\\AndroidStudioProjects\\MyApplication1\\app\\src\\main\\res\\drawable\\ic_launcher_background.xml"
-    },
-    {
-        "merged": "C:\\Users\\USER\\AndroidStudioProjects\\MyApplication1\\app\\build\\intermediates\\res\\merged\\debug\\layout_abc_screen_toolbar.xml.flat",
-        "source": "C:\\Users\\USER\\.gradle\\caches\\transforms-2\\files-2.1\\674b50d7e877da63f04f504ffc11adf3\\appcompat-1.0.2\\res\\layout\\abc_screen_toolbar.xml"
-    },
-    {
-        "merged": "C:\\Users\\USER\\AndroidStudioProjects\\MyApplication1\\app\\build\\intermediates\\res\\merged\\debug\\layout_select_dialog_multichoice_material.xml.flat",
-        "source": "C:\\Users\\USER\\.gradle\\caches\\transforms-2\\files-2.1\\674b50d7e877da63f04f504ffc11adf3\\appcompat-1.0.2\\res\\layout\\select_dialog_multichoice_material.xml"
-    },
-    {
-        "merged": "C:\\Users\\USER\\AndroidStudioProjects\\MyApplication1\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher_round.png.flat",
-        "source": "C:\\Users\\USER\\AndroidStudioProjects\\MyApplication1\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_round.png"
-    },
-    {
-        "merged": "C:\\Users\\USER\\AndroidStudioProjects\\MyApplication1\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher_round.png.flat",
-        "source": "C:\\Users\\USER\\AndroidStudioProjects\\MyApplication1\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_round.png"
-    },
-    {
-        "merged": "C:\\Users\\USER\\AndroidStudioProjects\\MyApplication1\\app\\build\\intermediates\\res\\merged\\debug\\layout_abc_dialog_title_material.xml.flat",
-        "source": "C:\\Users\\USER\\.gradle\\caches\\transforms-2\\files-2.1\\674b50d7e877da63f04f504ffc11adf3\\appcompat-1.0.2\\res\\layout\\abc_dialog_title_material.xml"
-    },
-    {
-        "merged": "C:\\Users\\USER\\AndroidStudioProjects\\MyApplication1\\app\\build\\intermediates\\res\\merged\\debug\\layout_abc_expanded_menu_layout.xml.flat",
-        "source": "C:\\Users\\USER\\.gradle\\caches\\transforms-2\\files-2.1\\674b50d7e877da63f04f504ffc11adf3\\appcompat-1.0.2\\res\\layout\\abc_expanded_menu_layout.xml"
-    },
-    {
-        "merged": "C:\\Users\\USER\\AndroidStudioProjects\\MyApplication1\\app\\build\\intermediates\\res\\merged\\debug\\drawable_andela.jpg.flat",
-        "source": "C:\\Users\\USER\\AndroidStudioProjects\\MyApplication1\\app\\src\\main\\res\\drawable\\andela.jpg"
-    },
-    {
-        "merged": "C:\\Users\\USER\\AndroidStudioProjects\\MyApplication1\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_launcher.xml.flat",
-        "source": "C:\\Users\\USER\\AndroidStudioProjects\\MyApplication1\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher.xml"
-    },
-    {
-        "merged": "C:\\Users\\USER\\AndroidStudioProjects\\MyApplication1\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
-        "source": "C:\\Users\\USER\\AndroidStudioProjects\\MyApplication1\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher_round.xml"
-    },
-    {
-        "merged": "C:\\Users\\USER\\AndroidStudioProjects\\MyApplication1\\app\\build\\intermediates\\res\\merged\\debug\\layout_support_simple_spinner_dropdown_item.xml.flat",
-        "source": "C:\\Users\\USER\\.gradle\\caches\\transforms-2\\files-2.1\\674b50d7e877da63f04f504ffc11adf3\\appcompat-1.0.2\\res\\layout\\support_simple_spinner_dropdown_item.xml"
-    },
-    {
-        "merged": "C:\\Users\\USER\\AndroidStudioProjects\\MyApplication1\\app\\build\\intermediates\\res\\merged\\debug\\layout-watch-v20_abc_alert_dialog_button_bar_material.xml.flat",
-        "source": "C:\\Users\\USER\\.gradle\\caches\\transforms-2\\files-2.1\\674b50d7e877da63f04f504ffc11adf3\\appcompat-1.0.2\\res\\layout-watch-v20\\abc_alert_dialog_button_bar_material.xml"
-    },
-    {
-        "merged": "C:\\Users\\USER\\AndroidStudioProjects\\MyApplication1\\app\\build\\intermediates\\res\\merged\\debug\\layout_abc_list_menu_item_icon.xml.flat",
-        "source": "C:\\Users\\USER\\.gradle\\caches\\transforms-2\\files-2.1\\674b50d7e877da63f04f504ffc11adf3\\appcompat-1.0.2\\res\\layout\\abc_list_menu_item_icon.xml"
-    },
-    {
-        "merged": "C:\\Users\\USER\\AndroidStudioProjects\\MyApplication1\\app\\build\\intermediates\\res\\merged\\debug\\layout_abc_activity_chooser_view_list_item.xml.flat",
-        "source": "C:\\Users\\USER\\.gradle\\caches\\transforms-2\\files-2.1\\674b50d7e877da63f04f504ffc11adf3\\appcompat-1.0.2\\res\\layout\\abc_activity_chooser_view_list_item.xml"
-    },
-    {
-        "merged": "C:\\Users\\USER\\AndroidStudioProjects\\MyApplication1\\app\\build\\intermediates\\res\\merged\\debug\\layout_abc_action_menu_layout.xml.flat",
-        "source": "C:\\Users\\USER\\.gradle\\caches\\transforms-2\\files-2.1\\674b50d7e877da63f04f504ffc11adf3\\appcompat-1.0.2\\res\\layout\\abc_action_menu_layout.xml"
-    },
-    {
-        "merged": "C:\\Users\\USER\\AndroidStudioProjects\\MyApplication1\\app\\build\\intermediates\\res\\merged\\debug\\layout_abc_tooltip.xml.flat",
-        "source": "C:\\Users\\USER\\.gradle\\caches\\transforms-2\\files-2.1\\674b50d7e877da63f04f504ffc11adf3\\appcompat-1.0.2\\res\\layout\\abc_tooltip.xml"
-    },
-    {
-        "merged": "C:\\Users\\USER\\AndroidStudioProjects\\MyApplication1\\app\\build\\intermediates\\res\\merged\\debug\\layout_abc_search_dropdown_item_icons_2line.xml.flat",
-        "source": "C:\\Users\\USER\\.gradle\\caches\\transforms-2\\files-2.1\\674b50d7e877da63f04f504ffc11adf3\\appcompat-1.0.2\\res\\layout\\abc_search_dropdown_item_icons_2line.xml"
-    },
-    {
-        "merged": "C:\\Users\\USER\\AndroidStudioProjects\\MyApplication1\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_main.xml.flat",
-        "source": "C:\\Users\\USER\\AndroidStudioProjects\\MyApplication1\\app\\src\\main\\res\\layout\\activity_main.xml"
-    },
-    {
-        "merged": "C:\\Users\\USER\\AndroidStudioProjects\\MyApplication1\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher.png.flat",
-        "source": "C:\\Users\\USER\\AndroidStudioProjects\\MyApplication1\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.png"
-    },
-    {
-        "merged": "C:\\Users\\USER\\AndroidStudioProjects\\MyApplication1\\app\\build\\intermediates\\res\\merged\\debug\\layout_abc_activity_chooser_view.xml.flat",
-        "source": "C:\\Users\\USER\\.gradle\\caches\\transforms-2\\files-2.1\\674b50d7e877da63f04f504ffc11adf3\\appcompat-1.0.2\\res\\layout\\abc_activity_chooser_view.xml"
-    },
-    {
-        "merged": "C:\\Users\\USER\\AndroidStudioProjects\\MyApplication1\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher.png.flat",
-        "source": "C:\\Users\\USER\\AndroidStudioProjects\\MyApplication1\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher.png"
-    },
-    {
-        "merged": "C:\\Users\\USER\\AndroidStudioProjects\\MyApplication1\\app\\build\\intermediates\\res\\merged\\debug\\layout_notification_template_part_chronometer.xml.flat",
-        "source": "C:\\Users\\USER\\.gradle\\caches\\transforms-2\\files-2.1\\a972393a436710bd84f1320057e97e04\\core-1.0.2\\res\\layout\\notification_template_part_chronometer.xml"
-    },
-    {
-        "merged": "C:\\Users\\USER\\AndroidStudioProjects\\MyApplication1\\app\\build\\intermediates\\res\\merged\\debug\\layout-watch-v20_abc_alert_dialog_title_material.xml.flat",
-        "source": "C:\\Users\\USER\\.gradle\\caches\\transforms-2\\files-2.1\\674b50d7e877da63f04f504ffc11adf3\\appcompat-1.0.2\\res\\layout-watch-v20\\abc_alert_dialog_title_material.xml"
-    },
-    {
-        "merged": "C:\\Users\\USER\\AndroidStudioProjects\\MyApplication1\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_about.xml.flat",
-        "source": "C:\\Users\\USER\\AndroidStudioProjects\\MyApplication1\\app\\src\\main\\res\\layout\\activity_about.xml"
-    },
-    {
-        "merged": "C:\\Users\\USER\\AndroidStudioProjects\\MyApplication1\\app\\build\\intermediates\\res\\merged\\debug\\layout_abc_cascading_menu_item_layout.xml.flat",
-        "source": "C:\\Users\\USER\\.gradle\\caches\\transforms-2\\files-2.1\\674b50d7e877da63f04f504ffc11adf3\\appcompat-1.0.2\\res\\layout\\abc_cascading_menu_item_layout.xml"
-    },
-    {
-        "merged": "C:\\Users\\USER\\AndroidStudioProjects\\MyApplication1\\app\\build\\intermediates\\res\\merged\\debug\\layout_abc_action_mode_close_item_material.xml.flat",
-        "source": "C:\\Users\\USER\\.gradle\\caches\\transforms-2\\files-2.1\\674b50d7e877da63f04f504ffc11adf3\\appcompat-1.0.2\\res\\layout\\abc_action_mode_close_item_material.xml"
-    },
-    {
-        "merged": "C:\\Users\\USER\\AndroidStudioProjects\\MyApplication1\\app\\build\\intermediates\\res\\merged\\debug\\layout_abc_screen_content_include.xml.flat",
-        "source": "C:\\Users\\USER\\.gradle\\caches\\transforms-2\\files-2.1\\674b50d7e877da63f04f504ffc11adf3\\appcompat-1.0.2\\res\\layout\\abc_screen_content_include.xml"
-    },
-    {
-        "merged": "C:\\Users\\USER\\AndroidStudioProjects\\MyApplication1\\app\\build\\intermediates\\res\\merged\\debug\\layout_abc_popup_menu_header_item_layout.xml.flat",
-        "source": "C:\\Users\\USER\\.gradle\\caches\\transforms-2\\files-2.1\\674b50d7e877da63f04f504ffc11adf3\\appcompat-1.0.2\\res\\layout\\abc_popup_menu_header_item_layout.xml"
-    },
-    {
-        "merged": "C:\\Users\\USER\\AndroidStudioProjects\\MyApplication1\\app\\build\\intermediates\\res\\merged\\debug\\layout_abc_alert_dialog_button_bar_material.xml.flat",
-        "source": "C:\\Users\\USER\\.gradle\\caches\\transforms-2\\files-2.1\\674b50d7e877da63f04f504ffc11adf3\\appcompat-1.0.2\\res\\layout\\abc_alert_dialog_button_bar_material.xml"
-    },
-    {
-        "merged": "C:\\Users\\USER\\AndroidStudioProjects\\MyApplication1\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher_round.png.flat",
-        "source": "C:\\Users\\USER\\AndroidStudioProjects\\MyApplication1\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_round.png"
-    },
-    {
-        "merged": "C:\\Users\\USER\\AndroidStudioProjects\\MyApplication1\\app\\build\\intermediates\\res\\merged\\debug\\layout_abc_list_menu_item_radio.xml.flat",
-        "source": "C:\\Users\\USER\\.gradle\\caches\\transforms-2\\files-2.1\\674b50d7e877da63f04f504ffc11adf3\\appcompat-1.0.2\\res\\layout\\abc_list_menu_item_radio.xml"
-    },
-    {
-        "merged": "C:\\Users\\USER\\AndroidStudioProjects\\MyApplication1\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher.png.flat",
-        "source": "C:\\Users\\USER\\AndroidStudioProjects\\MyApplication1\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.png"
-    },
-    {
-        "merged": "C:\\Users\\USER\\AndroidStudioProjects\\MyApplication1\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher_round.png.flat",
-        "source": "C:\\Users\\USER\\AndroidStudioProjects\\MyApplication1\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_round.png"
-    },
-    {
-        "merged": "C:\\Users\\USER\\AndroidStudioProjects\\MyApplication1\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher.png.flat",
-        "source": "C:\\Users\\USER\\AndroidStudioProjects\\MyApplication1\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.png"
-    },
-    {
-        "merged": "C:\\Users\\USER\\AndroidStudioProjects\\MyApplication1\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher.png.flat",
-        "source": "C:\\Users\\USER\\AndroidStudioProjects\\MyApplication1\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
-    },
-    {
-        "merged": "C:\\Users\\USER\\AndroidStudioProjects\\MyApplication1\\app\\build\\intermediates\\res\\merged\\debug\\layout_notification_template_part_time.xml.flat",
-        "source": "C:\\Users\\USER\\.gradle\\caches\\transforms-2\\files-2.1\\a972393a436710bd84f1320057e97e04\\core-1.0.2\\res\\layout\\notification_template_part_time.xml"
-    },
-    {
-        "merged": "C:\\Users\\USER\\AndroidStudioProjects\\MyApplication1\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21_notification_template_custom_big.xml.flat",
-        "source": "C:\\Users\\USER\\.gradle\\caches\\transforms-2\\files-2.1\\a972393a436710bd84f1320057e97e04\\core-1.0.2\\res\\layout-v21\\notification_template_custom_big.xml"
-    },
-    {
-        "merged": "C:\\Users\\USER\\AndroidStudioProjects\\MyApplication1\\app\\build\\intermediates\\res\\merged\\debug\\layout_abc_action_bar_up_container.xml.flat",
-        "source": "C:\\Users\\USER\\.gradle\\caches\\transforms-2\\files-2.1\\674b50d7e877da63f04f504ffc11adf3\\appcompat-1.0.2\\res\\layout\\abc_action_bar_up_container.xml"
-    },
-    {
-        "merged": "C:\\Users\\USER\\AndroidStudioProjects\\MyApplication1\\app\\build\\intermediates\\res\\merged\\debug\\layout_abc_select_dialog_material.xml.flat",
-        "source": "C:\\Users\\USER\\.gradle\\caches\\transforms-2\\files-2.1\\674b50d7e877da63f04f504ffc11adf3\\appcompat-1.0.2\\res\\layout\\abc_select_dialog_material.xml"
-    },
-    {
-        "merged": "C:\\Users\\USER\\AndroidStudioProjects\\MyApplication1\\app\\build\\intermediates\\res\\merged\\debug\\layout_abc_screen_simple_overlay_action_mode.xml.flat",
+        "merged": "C:\\Users\\USER\\AndroidStudioProjects\\ALC 4 Phase 1\\app\\build\\intermediates\\res\\merged\\debug\\layout_abc_screen_simple_overlay_action_mode.xml.flat",
         "source": "C:\\Users\\USER\\.gradle\\caches\\transforms-2\\files-2.1\\674b50d7e877da63f04f504ffc11adf3\\appcompat-1.0.2\\res\\layout\\abc_screen_simple_overlay_action_mode.xml"
     },
     {
-        "merged": "C:\\Users\\USER\\AndroidStudioProjects\\MyApplication1\\app\\build\\intermediates\\res\\merged\\debug\\layout_abc_popup_menu_item_layout.xml.flat",
+        "merged": "C:\\Users\\USER\\AndroidStudioProjects\\ALC 4 Phase 1\\app\\build\\intermediates\\res\\merged\\debug\\layout_abc_select_dialog_material.xml.flat",
+        "source": "C:\\Users\\USER\\.gradle\\caches\\transforms-2\\files-2.1\\674b50d7e877da63f04f504ffc11adf3\\appcompat-1.0.2\\res\\layout\\abc_select_dialog_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\USER\\AndroidStudioProjects\\ALC 4 Phase 1\\app\\build\\intermediates\\res\\merged\\debug\\layout_abc_activity_chooser_view.xml.flat",
+        "source": "C:\\Users\\USER\\.gradle\\caches\\transforms-2\\files-2.1\\674b50d7e877da63f04f504ffc11adf3\\appcompat-1.0.2\\res\\layout\\abc_activity_chooser_view.xml"
+    },
+    {
+        "merged": "C:\\Users\\USER\\AndroidStudioProjects\\ALC 4 Phase 1\\app\\build\\intermediates\\res\\merged\\debug\\layout_abc_expanded_menu_layout.xml.flat",
+        "source": "C:\\Users\\USER\\.gradle\\caches\\transforms-2\\files-2.1\\674b50d7e877da63f04f504ffc11adf3\\appcompat-1.0.2\\res\\layout\\abc_expanded_menu_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\USER\\AndroidStudioProjects\\ALC 4 Phase 1\\app\\build\\intermediates\\res\\merged\\debug\\layout_mtrl_layout_snackbar.xml.flat",
+        "source": "C:\\Users\\USER\\.gradle\\caches\\transforms-2\\files-2.1\\dc16af42b50c98cf5e8fb55933c46a0f\\material-1.0.0\\res\\layout\\mtrl_layout_snackbar.xml"
+    },
+    {
+        "merged": "C:\\Users\\USER\\AndroidStudioProjects\\ALC 4 Phase 1\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\USER\\AndroidStudioProjects\\ALC 4 Phase 1\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\USER\\AndroidStudioProjects\\ALC 4 Phase 1\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\USER\\AndroidStudioProjects\\ALC 4 Phase 1\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\USER\\AndroidStudioProjects\\ALC 4 Phase 1\\app\\build\\intermediates\\res\\merged\\debug\\layout_abc_action_menu_item_layout.xml.flat",
+        "source": "C:\\Users\\USER\\.gradle\\caches\\transforms-2\\files-2.1\\674b50d7e877da63f04f504ffc11adf3\\appcompat-1.0.2\\res\\layout\\abc_action_menu_item_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\USER\\AndroidStudioProjects\\ALC 4 Phase 1\\app\\build\\intermediates\\res\\merged\\debug\\layout_abc_search_view.xml.flat",
+        "source": "C:\\Users\\USER\\.gradle\\caches\\transforms-2\\files-2.1\\674b50d7e877da63f04f504ffc11adf3\\appcompat-1.0.2\\res\\layout\\abc_search_view.xml"
+    },
+    {
+        "merged": "C:\\Users\\USER\\AndroidStudioProjects\\ALC 4 Phase 1\\app\\build\\intermediates\\res\\merged\\debug\\layout_notification_template_part_time.xml.flat",
+        "source": "C:\\Users\\USER\\.gradle\\caches\\transforms-2\\files-2.1\\a972393a436710bd84f1320057e97e04\\core-1.0.2\\res\\layout\\notification_template_part_time.xml"
+    },
+    {
+        "merged": "C:\\Users\\USER\\AndroidStudioProjects\\ALC 4 Phase 1\\app\\build\\intermediates\\res\\merged\\debug\\layout_design_navigation_menu_item.xml.flat",
+        "source": "C:\\Users\\USER\\.gradle\\caches\\transforms-2\\files-2.1\\dc16af42b50c98cf5e8fb55933c46a0f\\material-1.0.0\\res\\layout\\design_navigation_menu_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\USER\\AndroidStudioProjects\\ALC 4 Phase 1\\app\\build\\intermediates\\res\\merged\\debug\\layout_design_bottom_sheet_dialog.xml.flat",
+        "source": "C:\\Users\\USER\\.gradle\\caches\\transforms-2\\files-2.1\\dc16af42b50c98cf5e8fb55933c46a0f\\material-1.0.0\\res\\layout\\design_bottom_sheet_dialog.xml"
+    },
+    {
+        "merged": "C:\\Users\\USER\\AndroidStudioProjects\\ALC 4 Phase 1\\app\\build\\intermediates\\res\\merged\\debug\\drawable_layout_bg.xml.flat",
+        "source": "C:\\Users\\USER\\AndroidStudioProjects\\ALC 4 Phase 1\\app\\src\\main\\res\\drawable\\layout_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\USER\\AndroidStudioProjects\\ALC 4 Phase 1\\app\\build\\intermediates\\res\\merged\\debug\\layout_select_dialog_multichoice_material.xml.flat",
+        "source": "C:\\Users\\USER\\.gradle\\caches\\transforms-2\\files-2.1\\674b50d7e877da63f04f504ffc11adf3\\appcompat-1.0.2\\res\\layout\\select_dialog_multichoice_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\USER\\AndroidStudioProjects\\ALC 4 Phase 1\\app\\build\\intermediates\\res\\merged\\debug\\layout_abc_list_menu_item_layout.xml.flat",
+        "source": "C:\\Users\\USER\\.gradle\\caches\\transforms-2\\files-2.1\\674b50d7e877da63f04f504ffc11adf3\\appcompat-1.0.2\\res\\layout\\abc_list_menu_item_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\USER\\AndroidStudioProjects\\ALC 4 Phase 1\\app\\build\\intermediates\\res\\merged\\debug\\layout-watch-v20_abc_alert_dialog_title_material.xml.flat",
+        "source": "C:\\Users\\USER\\.gradle\\caches\\transforms-2\\files-2.1\\674b50d7e877da63f04f504ffc11adf3\\appcompat-1.0.2\\res\\layout-watch-v20\\abc_alert_dialog_title_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\USER\\AndroidStudioProjects\\ALC 4 Phase 1\\app\\build\\intermediates\\res\\merged\\debug\\layout_abc_screen_toolbar.xml.flat",
+        "source": "C:\\Users\\USER\\.gradle\\caches\\transforms-2\\files-2.1\\674b50d7e877da63f04f504ffc11adf3\\appcompat-1.0.2\\res\\layout\\abc_screen_toolbar.xml"
+    },
+    {
+        "merged": "C:\\Users\\USER\\AndroidStudioProjects\\ALC 4 Phase 1\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\USER\\AndroidStudioProjects\\ALC 4 Phase 1\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\USER\\AndroidStudioProjects\\ALC 4 Phase 1\\app\\build\\intermediates\\res\\merged\\debug\\layout_select_dialog_singlechoice_material.xml.flat",
+        "source": "C:\\Users\\USER\\.gradle\\caches\\transforms-2\\files-2.1\\674b50d7e877da63f04f504ffc11adf3\\appcompat-1.0.2\\res\\layout\\select_dialog_singlechoice_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\USER\\AndroidStudioProjects\\ALC 4 Phase 1\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21_notification_template_icon_group.xml.flat",
+        "source": "C:\\Users\\USER\\.gradle\\caches\\transforms-2\\files-2.1\\a972393a436710bd84f1320057e97e04\\core-1.0.2\\res\\layout-v21\\notification_template_icon_group.xml"
+    },
+    {
+        "merged": "C:\\Users\\USER\\AndroidStudioProjects\\ALC 4 Phase 1\\app\\build\\intermediates\\res\\merged\\debug\\layout_abc_alert_dialog_button_bar_material.xml.flat",
+        "source": "C:\\Users\\USER\\.gradle\\caches\\transforms-2\\files-2.1\\674b50d7e877da63f04f504ffc11adf3\\appcompat-1.0.2\\res\\layout\\abc_alert_dialog_button_bar_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\USER\\AndroidStudioProjects\\ALC 4 Phase 1\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21_notification_template_custom_big.xml.flat",
+        "source": "C:\\Users\\USER\\.gradle\\caches\\transforms-2\\files-2.1\\a972393a436710bd84f1320057e97e04\\core-1.0.2\\res\\layout-v21\\notification_template_custom_big.xml"
+    },
+    {
+        "merged": "C:\\Users\\USER\\AndroidStudioProjects\\ALC 4 Phase 1\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_andela.png.flat",
+        "source": "C:\\Users\\USER\\AndroidStudioProjects\\ALC 4 Phase 1\\app\\src\\main\\res\\mipmap-mdpi\\andela.png"
+    },
+    {
+        "merged": "C:\\Users\\USER\\AndroidStudioProjects\\ALC 4 Phase 1\\app\\build\\intermediates\\res\\merged\\debug\\layout_abc_search_dropdown_item_icons_2line.xml.flat",
+        "source": "C:\\Users\\USER\\.gradle\\caches\\transforms-2\\files-2.1\\674b50d7e877da63f04f504ffc11adf3\\appcompat-1.0.2\\res\\layout\\abc_search_dropdown_item_icons_2line.xml"
+    },
+    {
+        "merged": "C:\\Users\\USER\\AndroidStudioProjects\\ALC 4 Phase 1\\app\\build\\intermediates\\res\\merged\\debug\\layout_abc_action_bar_title_item.xml.flat",
+        "source": "C:\\Users\\USER\\.gradle\\caches\\transforms-2\\files-2.1\\674b50d7e877da63f04f504ffc11adf3\\appcompat-1.0.2\\res\\layout\\abc_action_bar_title_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\USER\\AndroidStudioProjects\\ALC 4 Phase 1\\app\\build\\intermediates\\res\\merged\\debug\\layout_design_layout_snackbar_include.xml.flat",
+        "source": "C:\\Users\\USER\\.gradle\\caches\\transforms-2\\files-2.1\\dc16af42b50c98cf5e8fb55933c46a0f\\material-1.0.0\\res\\layout\\design_layout_snackbar_include.xml"
+    },
+    {
+        "merged": "C:\\Users\\USER\\AndroidStudioProjects\\ALC 4 Phase 1\\app\\build\\intermediates\\res\\merged\\debug\\drawable_alc.png.flat",
+        "source": "C:\\Users\\USER\\AndroidStudioProjects\\ALC 4 Phase 1\\app\\src\\main\\res\\drawable\\alc.png"
+    },
+    {
+        "merged": "C:\\Users\\USER\\AndroidStudioProjects\\ALC 4 Phase 1\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\USER\\AndroidStudioProjects\\ALC 4 Phase 1\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\USER\\AndroidStudioProjects\\ALC 4 Phase 1\\app\\build\\intermediates\\res\\merged\\debug\\layout_design_menu_item_action_area.xml.flat",
+        "source": "C:\\Users\\USER\\.gradle\\caches\\transforms-2\\files-2.1\\dc16af42b50c98cf5e8fb55933c46a0f\\material-1.0.0\\res\\layout\\design_menu_item_action_area.xml"
+    },
+    {
+        "merged": "C:\\Users\\USER\\AndroidStudioProjects\\ALC 4 Phase 1\\app\\build\\intermediates\\res\\merged\\debug\\layout_mtrl_layout_snackbar_include.xml.flat",
+        "source": "C:\\Users\\USER\\.gradle\\caches\\transforms-2\\files-2.1\\dc16af42b50c98cf5e8fb55933c46a0f\\material-1.0.0\\res\\layout\\mtrl_layout_snackbar_include.xml"
+    },
+    {
+        "merged": "C:\\Users\\USER\\AndroidStudioProjects\\ALC 4 Phase 1\\app\\build\\intermediates\\res\\merged\\debug\\layout_abc_tooltip.xml.flat",
+        "source": "C:\\Users\\USER\\.gradle\\caches\\transforms-2\\files-2.1\\674b50d7e877da63f04f504ffc11adf3\\appcompat-1.0.2\\res\\layout\\abc_tooltip.xml"
+    },
+    {
+        "merged": "C:\\Users\\USER\\AndroidStudioProjects\\ALC 4 Phase 1\\app\\build\\intermediates\\res\\merged\\debug\\layout_support_simple_spinner_dropdown_item.xml.flat",
+        "source": "C:\\Users\\USER\\.gradle\\caches\\transforms-2\\files-2.1\\674b50d7e877da63f04f504ffc11adf3\\appcompat-1.0.2\\res\\layout\\support_simple_spinner_dropdown_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\USER\\AndroidStudioProjects\\ALC 4 Phase 1\\app\\build\\intermediates\\res\\merged\\debug\\layout_select_dialog_item_material.xml.flat",
+        "source": "C:\\Users\\USER\\.gradle\\caches\\transforms-2\\files-2.1\\674b50d7e877da63f04f504ffc11adf3\\appcompat-1.0.2\\res\\layout\\select_dialog_item_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\USER\\AndroidStudioProjects\\ALC 4 Phase 1\\app\\build\\intermediates\\res\\merged\\debug\\layout-sw600dp-v13_design_layout_snackbar.xml.flat",
+        "source": "C:\\Users\\USER\\.gradle\\caches\\transforms-2\\files-2.1\\dc16af42b50c98cf5e8fb55933c46a0f\\material-1.0.0\\res\\layout-sw600dp-v13\\design_layout_snackbar.xml"
+    },
+    {
+        "merged": "C:\\Users\\USER\\AndroidStudioProjects\\ALC 4 Phase 1\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21_notification_action.xml.flat",
+        "source": "C:\\Users\\USER\\.gradle\\caches\\transforms-2\\files-2.1\\a972393a436710bd84f1320057e97e04\\core-1.0.2\\res\\layout-v21\\notification_action.xml"
+    },
+    {
+        "merged": "C:\\Users\\USER\\AndroidStudioProjects\\ALC 4 Phase 1\\app\\build\\intermediates\\res\\merged\\debug\\layout-sw600dp-v13_mtrl_layout_snackbar.xml.flat",
+        "source": "C:\\Users\\USER\\.gradle\\caches\\transforms-2\\files-2.1\\dc16af42b50c98cf5e8fb55933c46a0f\\material-1.0.0\\res\\layout-sw600dp-v13\\mtrl_layout_snackbar.xml"
+    },
+    {
+        "merged": "C:\\Users\\USER\\AndroidStudioProjects\\ALC 4 Phase 1\\app\\build\\intermediates\\res\\merged\\debug\\layout_abc_list_menu_item_radio.xml.flat",
+        "source": "C:\\Users\\USER\\.gradle\\caches\\transforms-2\\files-2.1\\674b50d7e877da63f04f504ffc11adf3\\appcompat-1.0.2\\res\\layout\\abc_list_menu_item_radio.xml"
+    },
+    {
+        "merged": "C:\\Users\\USER\\AndroidStudioProjects\\ALC 4 Phase 1\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_andela.png.flat",
+        "source": "C:\\Users\\USER\\AndroidStudioProjects\\ALC 4 Phase 1\\app\\src\\main\\res\\mipmap-xxhdpi\\andela.png"
+    },
+    {
+        "merged": "C:\\Users\\USER\\AndroidStudioProjects\\ALC 4 Phase 1\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\USER\\AndroidStudioProjects\\ALC 4 Phase 1\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\USER\\AndroidStudioProjects\\ALC 4 Phase 1\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\USER\\AndroidStudioProjects\\ALC 4 Phase 1\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\USER\\AndroidStudioProjects\\ALC 4 Phase 1\\app\\build\\intermediates\\res\\merged\\debug\\layout_abc_alert_dialog_material.xml.flat",
+        "source": "C:\\Users\\USER\\.gradle\\caches\\transforms-2\\files-2.1\\674b50d7e877da63f04f504ffc11adf3\\appcompat-1.0.2\\res\\layout\\abc_alert_dialog_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\USER\\AndroidStudioProjects\\ALC 4 Phase 1\\app\\build\\intermediates\\res\\merged\\debug\\layout-watch-v20_abc_alert_dialog_button_bar_material.xml.flat",
+        "source": "C:\\Users\\USER\\.gradle\\caches\\transforms-2\\files-2.1\\674b50d7e877da63f04f504ffc11adf3\\appcompat-1.0.2\\res\\layout-watch-v20\\abc_alert_dialog_button_bar_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\USER\\AndroidStudioProjects\\ALC 4 Phase 1\\app\\build\\intermediates\\res\\merged\\debug\\layout_design_bottom_navigation_item.xml.flat",
+        "source": "C:\\Users\\USER\\.gradle\\caches\\transforms-2\\files-2.1\\dc16af42b50c98cf5e8fb55933c46a0f\\material-1.0.0\\res\\layout\\design_bottom_navigation_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\USER\\AndroidStudioProjects\\ALC 4 Phase 1\\app\\build\\intermediates\\res\\merged\\debug\\layout_design_navigation_item_header.xml.flat",
+        "source": "C:\\Users\\USER\\.gradle\\caches\\transforms-2\\files-2.1\\dc16af42b50c98cf5e8fb55933c46a0f\\material-1.0.0\\res\\layout\\design_navigation_item_header.xml"
+    },
+    {
+        "merged": "C:\\Users\\USER\\AndroidStudioProjects\\ALC 4 Phase 1\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_andela.png.flat",
+        "source": "C:\\Users\\USER\\AndroidStudioProjects\\ALC 4 Phase 1\\app\\src\\main\\res\\mipmap-xxxhdpi\\andela.png"
+    },
+    {
+        "merged": "C:\\Users\\USER\\AndroidStudioProjects\\ALC 4 Phase 1\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\USER\\AndroidStudioProjects\\ALC 4 Phase 1\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\USER\\AndroidStudioProjects\\ALC 4 Phase 1\\app\\build\\intermediates\\res\\merged\\debug\\layout_abc_screen_simple.xml.flat",
+        "source": "C:\\Users\\USER\\.gradle\\caches\\transforms-2\\files-2.1\\674b50d7e877da63f04f504ffc11adf3\\appcompat-1.0.2\\res\\layout\\abc_screen_simple.xml"
+    },
+    {
+        "merged": "C:\\Users\\USER\\AndroidStudioProjects\\ALC 4 Phase 1\\app\\build\\intermediates\\res\\merged\\debug\\layout_design_layout_tab_text.xml.flat",
+        "source": "C:\\Users\\USER\\.gradle\\caches\\transforms-2\\files-2.1\\dc16af42b50c98cf5e8fb55933c46a0f\\material-1.0.0\\res\\layout\\design_layout_tab_text.xml"
+    },
+    {
+        "merged": "C:\\Users\\USER\\AndroidStudioProjects\\ALC 4 Phase 1\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\USER\\AndroidStudioProjects\\ALC 4 Phase 1\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\USER\\AndroidStudioProjects\\ALC 4 Phase 1\\app\\build\\intermediates\\res\\merged\\debug\\layout_design_navigation_item.xml.flat",
+        "source": "C:\\Users\\USER\\.gradle\\caches\\transforms-2\\files-2.1\\dc16af42b50c98cf5e8fb55933c46a0f\\material-1.0.0\\res\\layout\\design_navigation_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\USER\\AndroidStudioProjects\\ALC 4 Phase 1\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_profile.xml.flat",
+        "source": "C:\\Users\\USER\\AndroidStudioProjects\\ALC 4 Phase 1\\app\\src\\main\\res\\layout\\activity_profile.xml"
+    },
+    {
+        "merged": "C:\\Users\\USER\\AndroidStudioProjects\\ALC 4 Phase 1\\app\\build\\intermediates\\res\\merged\\debug\\layout_design_layout_tab_icon.xml.flat",
+        "source": "C:\\Users\\USER\\.gradle\\caches\\transforms-2\\files-2.1\\dc16af42b50c98cf5e8fb55933c46a0f\\material-1.0.0\\res\\layout\\design_layout_tab_icon.xml"
+    },
+    {
+        "merged": "C:\\Users\\USER\\AndroidStudioProjects\\ALC 4 Phase 1\\app\\build\\intermediates\\res\\merged\\debug\\layout-v26_abc_screen_toolbar.xml.flat",
+        "source": "C:\\Users\\USER\\.gradle\\caches\\transforms-2\\files-2.1\\674b50d7e877da63f04f504ffc11adf3\\appcompat-1.0.2\\res\\layout-v26\\abc_screen_toolbar.xml"
+    },
+    {
+        "merged": "C:\\Users\\USER\\AndroidStudioProjects\\ALC 4 Phase 1\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\USER\\AndroidStudioProjects\\ALC 4 Phase 1\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\USER\\AndroidStudioProjects\\ALC 4 Phase 1\\app\\build\\intermediates\\res\\merged\\debug\\layout_abc_screen_content_include.xml.flat",
+        "source": "C:\\Users\\USER\\.gradle\\caches\\transforms-2\\files-2.1\\674b50d7e877da63f04f504ffc11adf3\\appcompat-1.0.2\\res\\layout\\abc_screen_content_include.xml"
+    },
+    {
+        "merged": "C:\\Users\\USER\\AndroidStudioProjects\\ALC 4 Phase 1\\app\\build\\intermediates\\res\\merged\\debug\\layout_abc_activity_chooser_view_list_item.xml.flat",
+        "source": "C:\\Users\\USER\\.gradle\\caches\\transforms-2\\files-2.1\\674b50d7e877da63f04f504ffc11adf3\\appcompat-1.0.2\\res\\layout\\abc_activity_chooser_view_list_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\USER\\AndroidStudioProjects\\ALC 4 Phase 1\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_andela.png.flat",
+        "source": "C:\\Users\\USER\\AndroidStudioProjects\\ALC 4 Phase 1\\app\\src\\main\\res\\mipmap-hdpi\\andela.png"
+    },
+    {
+        "merged": "C:\\Users\\USER\\AndroidStudioProjects\\ALC 4 Phase 1\\app\\build\\intermediates\\res\\merged\\debug\\layout_abc_list_menu_item_icon.xml.flat",
+        "source": "C:\\Users\\USER\\.gradle\\caches\\transforms-2\\files-2.1\\674b50d7e877da63f04f504ffc11adf3\\appcompat-1.0.2\\res\\layout\\abc_list_menu_item_icon.xml"
+    },
+    {
+        "merged": "C:\\Users\\USER\\AndroidStudioProjects\\ALC 4 Phase 1\\app\\build\\intermediates\\res\\merged\\debug\\layout_abc_cascading_menu_item_layout.xml.flat",
+        "source": "C:\\Users\\USER\\.gradle\\caches\\transforms-2\\files-2.1\\674b50d7e877da63f04f504ffc11adf3\\appcompat-1.0.2\\res\\layout\\abc_cascading_menu_item_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\USER\\AndroidStudioProjects\\ALC 4 Phase 1\\app\\build\\intermediates\\res\\merged\\debug\\drawable_profile.jpg.flat",
+        "source": "C:\\Users\\USER\\AndroidStudioProjects\\ALC 4 Phase 1\\app\\src\\main\\res\\drawable\\profile.jpg"
+    },
+    {
+        "merged": "C:\\Users\\USER\\AndroidStudioProjects\\ALC 4 Phase 1\\app\\build\\intermediates\\res\\merged\\debug\\layout_notification_template_part_chronometer.xml.flat",
+        "source": "C:\\Users\\USER\\.gradle\\caches\\transforms-2\\files-2.1\\a972393a436710bd84f1320057e97e04\\core-1.0.2\\res\\layout\\notification_template_part_chronometer.xml"
+    },
+    {
+        "merged": "C:\\Users\\USER\\AndroidStudioProjects\\ALC 4 Phase 1\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_andela.png.flat",
+        "source": "C:\\Users\\USER\\AndroidStudioProjects\\ALC 4 Phase 1\\app\\src\\main\\res\\mipmap-xhdpi\\andela.png"
+    },
+    {
+        "merged": "C:\\Users\\USER\\AndroidStudioProjects\\ALC 4 Phase 1\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\USER\\AndroidStudioProjects\\ALC 4 Phase 1\\app\\src\\main\\res\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\USER\\AndroidStudioProjects\\ALC 4 Phase 1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\USER\\AndroidStudioProjects\\ALC 4 Phase 1\\app\\src\\main\\res\\drawable-v24\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\USER\\AndroidStudioProjects\\ALC 4 Phase 1\\app\\build\\intermediates\\res\\merged\\debug\\layout_abc_action_mode_close_item_material.xml.flat",
+        "source": "C:\\Users\\USER\\.gradle\\caches\\transforms-2\\files-2.1\\674b50d7e877da63f04f504ffc11adf3\\appcompat-1.0.2\\res\\layout\\abc_action_mode_close_item_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\USER\\AndroidStudioProjects\\ALC 4 Phase 1\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_andela.png.flat",
+        "source": "C:\\Users\\USER\\AndroidStudioProjects\\ALC 4 Phase 1\\app\\src\\main\\res\\mipmap-anydpi-v26\\andela.png"
+    },
+    {
+        "merged": "C:\\Users\\USER\\AndroidStudioProjects\\ALC 4 Phase 1\\app\\build\\intermediates\\res\\merged\\debug\\layout_abc_action_mode_bar.xml.flat",
+        "source": "C:\\Users\\USER\\.gradle\\caches\\transforms-2\\files-2.1\\674b50d7e877da63f04f504ffc11adf3\\appcompat-1.0.2\\res\\layout\\abc_action_mode_bar.xml"
+    },
+    {
+        "merged": "C:\\Users\\USER\\AndroidStudioProjects\\ALC 4 Phase 1\\app\\build\\intermediates\\res\\merged\\debug\\layout_abc_alert_dialog_title_material.xml.flat",
+        "source": "C:\\Users\\USER\\.gradle\\caches\\transforms-2\\files-2.1\\674b50d7e877da63f04f504ffc11adf3\\appcompat-1.0.2\\res\\layout\\abc_alert_dialog_title_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\USER\\AndroidStudioProjects\\ALC 4 Phase 1\\app\\build\\intermediates\\res\\merged\\debug\\layout_abc_dialog_title_material.xml.flat",
+        "source": "C:\\Users\\USER\\.gradle\\caches\\transforms-2\\files-2.1\\674b50d7e877da63f04f504ffc11adf3\\appcompat-1.0.2\\res\\layout\\abc_dialog_title_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\USER\\AndroidStudioProjects\\ALC 4 Phase 1\\app\\build\\intermediates\\res\\merged\\debug\\layout_design_navigation_item_subheader.xml.flat",
+        "source": "C:\\Users\\USER\\.gradle\\caches\\transforms-2\\files-2.1\\dc16af42b50c98cf5e8fb55933c46a0f\\material-1.0.0\\res\\layout\\design_navigation_item_subheader.xml"
+    },
+    {
+        "merged": "C:\\Users\\USER\\AndroidStudioProjects\\ALC 4 Phase 1\\app\\build\\intermediates\\res\\merged\\debug\\font_aclonica.xml.flat",
+        "source": "C:\\Users\\USER\\AndroidStudioProjects\\ALC 4 Phase 1\\app\\src\\main\\res\\font\\aclonica.xml"
+    },
+    {
+        "merged": "C:\\Users\\USER\\AndroidStudioProjects\\ALC 4 Phase 1\\app\\build\\intermediates\\res\\merged\\debug\\layout_design_navigation_menu.xml.flat",
+        "source": "C:\\Users\\USER\\.gradle\\caches\\transforms-2\\files-2.1\\dc16af42b50c98cf5e8fb55933c46a0f\\material-1.0.0\\res\\layout\\design_navigation_menu.xml"
+    },
+    {
+        "merged": "C:\\Users\\USER\\AndroidStudioProjects\\ALC 4 Phase 1\\app\\build\\intermediates\\res\\merged\\debug\\layout_abc_popup_menu_item_layout.xml.flat",
         "source": "C:\\Users\\USER\\.gradle\\caches\\transforms-2\\files-2.1\\674b50d7e877da63f04f504ffc11adf3\\appcompat-1.0.2\\res\\layout\\abc_popup_menu_item_layout.xml"
     },
     {
-        "merged": "C:\\Users\\USER\\AndroidStudioProjects\\MyApplication1\\app\\build\\intermediates\\res\\merged\\debug\\drawable_profile.jpg.flat",
-        "source": "C:\\Users\\USER\\AndroidStudioProjects\\MyApplication1\\app\\src\\main\\res\\drawable\\profile.jpg"
+        "merged": "C:\\Users\\USER\\AndroidStudioProjects\\ALC 4 Phase 1\\app\\build\\intermediates\\res\\merged\\debug\\layout_design_layout_snackbar.xml.flat",
+        "source": "C:\\Users\\USER\\.gradle\\caches\\transforms-2\\files-2.1\\dc16af42b50c98cf5e8fb55933c46a0f\\material-1.0.0\\res\\layout\\design_layout_snackbar.xml"
+    },
+    {
+        "merged": "C:\\Users\\USER\\AndroidStudioProjects\\ALC 4 Phase 1\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\USER\\AndroidStudioProjects\\ALC 4 Phase 1\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\USER\\AndroidStudioProjects\\ALC 4 Phase 1\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\USER\\AndroidStudioProjects\\ALC 4 Phase 1\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\USER\\AndroidStudioProjects\\ALC 4 Phase 1\\app\\build\\intermediates\\res\\merged\\debug\\layout_design_navigation_item_separator.xml.flat",
+        "source": "C:\\Users\\USER\\.gradle\\caches\\transforms-2\\files-2.1\\dc16af42b50c98cf5e8fb55933c46a0f\\material-1.0.0\\res\\layout\\design_navigation_item_separator.xml"
+    },
+    {
+        "merged": "C:\\Users\\USER\\AndroidStudioProjects\\ALC 4 Phase 1\\app\\build\\intermediates\\res\\merged\\debug\\layout_design_text_input_password_icon.xml.flat",
+        "source": "C:\\Users\\USER\\.gradle\\caches\\transforms-2\\files-2.1\\dc16af42b50c98cf5e8fb55933c46a0f\\material-1.0.0\\res\\layout\\design_text_input_password_icon.xml"
+    },
+    {
+        "merged": "C:\\Users\\USER\\AndroidStudioProjects\\ALC 4 Phase 1\\app\\build\\intermediates\\res\\merged\\debug\\layout_abc_action_menu_layout.xml.flat",
+        "source": "C:\\Users\\USER\\.gradle\\caches\\transforms-2\\files-2.1\\674b50d7e877da63f04f504ffc11adf3\\appcompat-1.0.2\\res\\layout\\abc_action_menu_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\USER\\AndroidStudioProjects\\ALC 4 Phase 1\\app\\build\\intermediates\\res\\merged\\debug\\layout_profile_layout.xml.flat",
+        "source": "C:\\Users\\USER\\AndroidStudioProjects\\ALC 4 Phase 1\\app\\src\\main\\res\\layout\\profile_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\USER\\AndroidStudioProjects\\ALC 4 Phase 1\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\USER\\AndroidStudioProjects\\ALC 4 Phase 1\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\USER\\AndroidStudioProjects\\ALC 4 Phase 1\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21_notification_action_tombstone.xml.flat",
+        "source": "C:\\Users\\USER\\.gradle\\caches\\transforms-2\\files-2.1\\a972393a436710bd84f1320057e97e04\\core-1.0.2\\res\\layout-v21\\notification_action_tombstone.xml"
+    },
+    {
+        "merged": "C:\\Users\\USER\\AndroidStudioProjects\\ALC 4 Phase 1\\app\\build\\intermediates\\res\\merged\\debug\\layout_abc_action_bar_up_container.xml.flat",
+        "source": "C:\\Users\\USER\\.gradle\\caches\\transforms-2\\files-2.1\\674b50d7e877da63f04f504ffc11adf3\\appcompat-1.0.2\\res\\layout\\abc_action_bar_up_container.xml"
+    },
+    {
+        "merged": "C:\\Users\\USER\\AndroidStudioProjects\\ALC 4 Phase 1\\app\\build\\intermediates\\res\\merged\\debug\\layout_abc_popup_menu_header_item_layout.xml.flat",
+        "source": "C:\\Users\\USER\\.gradle\\caches\\transforms-2\\files-2.1\\674b50d7e877da63f04f504ffc11adf3\\appcompat-1.0.2\\res\\layout\\abc_popup_menu_header_item_layout.xml"
     }
 ]

@@ -4,8 +4,18 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    android:background="@drawable/andela"
     tools:context=".MainActivity">
+
+    <ImageView
+        android:id="@+id/alc"
+        android:layout_width="348dp"
+        android:layout_height="382dp"
+        android:layout_marginTop="32dp"
+        android:contentDescription="@string/todo"
+        android:src="@drawable/alc"
+        app:layout_constraintEnd_toEndOf="@+id/tv_welcome"
+        app:layout_constraintStart_toStartOf="@+id/tv_welcome"
+        app:layout_constraintTop_toBottomOf="@+id/tv_welcome" />
 
     <TextView
         android:id="@+id/tv_welcome"
@@ -14,20 +24,20 @@
         android:fontFamily="@font/aclonica"
         android:gravity="center"
         android:text="@string/welcome"
-        android:textColor="#1A1818"
-        android:textSize="32sp"
+        android:textColor="#0E0D0D"
+        android:textSize="36sp"
         android:textStyle="bold"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="@+id/bt_profile"
-        app:layout_constraintHorizontal_bias="0.0"
+        app:layout_constraintHorizontal_bias="1.0"
         app:layout_constraintLeft_toLeftOf="parent"
         app:layout_constraintRight_toRightOf="parent"
-        app:layout_constraintStart_toStartOf="@+id/bt_about"
+        app:layout_constraintStart_toStartOf="@+id/about_alc"
         app:layout_constraintTop_toTopOf="parent"
-        app:layout_constraintVertical_bias="0.076" />
+        app:layout_constraintVertical_bias="0.024" />
 
     <Button
-        android:id="@+id/bt_about"
+        android:id="@+id/about_alc"
         android:layout_width="0dp"
         android:layout_height="wrap_content"
         android:layout_marginStart="32dp"
@@ -53,12 +63,12 @@
         android:layout_marginBottom="32dp"
         android:background="#FFEB3B"
         android:fontFamily="@font/aclonica"
-        android:text="@string/profile"
+        android:text="@string/my_profile"
         android:textColor="#0E0D0D"
         android:textSize="18sp"
         android:textStyle="bold"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintHorizontal_bias="0.5"
-        app:layout_constraintStart_toEndOf="@+id/bt_about" />
+        app:layout_constraintStart_toEndOf="@+id/about_alc" />
 </androidx.constraintlayout.widget.ConstraintLayout>

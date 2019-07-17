@@ -12,7 +12,7 @@ class MainActivity : AppCompatActivity() {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_main)
 
-        bt_about.setOnClickListener {
+        about_alc.setOnClickListener {
             startActivity(Intent(this, AboutActivity::class.java))
         }
         bt_profile.setOnClickListener {

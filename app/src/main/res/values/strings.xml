@@ -1,15 +1,26 @@
 <resources>
-    <string name="app_name">My Application 1</string>
+    <string name="app_name">ALC 4.0 Phase 1</string>
     <string name="welcome">Welcome to ALC 4.0</string>
-    <string name="about">About ALC</string>
+    <string name="about">ABOUT ALC</string>
     <string name="profile">MY PROFILE</string>
     <string name="about_url">https://andela.com/alc</string>
     <string name="check_internet">Please check your internet connection</string>
-    <string name="glory">Glory Ejuojo David-Akubo</string>
-    <string name="track">Track: Android</string>
-    <string name="slack">Slack: @GloryDavid</string>
-    <string name="country">Country: Nigeria</string>
-    <string name="email">Email: glodave99@gmail.com</string>
-    <string name="phone">Phone Number: 2347034653696</string>
+    <string name="reload">Reload</string>
+    <string name="name">Glory Ejuojo David</string>
+    <string name="track">Track:</string>
+    <string name="slack">Slack:</string>
+    <string name="country">Country:</string>
+    <string name="email">Email:</string>
+    <string name="phone">Phone Number:</string>
     <string name="profile_pic">profile</string>
+    <string name="android">Android</string>
+    <string name="nigeria">Nigeria</string>
+    <!--suppress AndroidDomInspection -->
+    <string name="glory">@GloryDavid</string>
+    <string name="mail">glodave99@gmail.com</string>
+    <string name="number">2347034653696</string>
+    <string name="my_profile">My Profile</string>
+    <string name="todo">TODO</string>
+
+
 </resources>

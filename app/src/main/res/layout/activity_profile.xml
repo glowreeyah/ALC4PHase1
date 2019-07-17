@@ -6,105 +6,43 @@
     android:layout_height="match_parent"
     tools:context=".ProfileActivity">
 
-    <ImageView
-        android:id="@+id/iv_profile"
-        android:layout_width="167dp"
-        android:layout_height="263dp"
-        android:contentDescription="@string/profile_pic"
+
+    <de.hdodenhof.circleimageview.CircleImageView
+        android:id="@+id/image"
+        android:layout_width="370dp"
+        android:layout_height="247dp"
+        android:background="@drawable/layout_bg"
         android:src="@drawable/profile"
+        app:civ_border_color="#3447AF"
+        app:civ_border_width="1dp"
         app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.421"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent" />
 
     <TextView
         android:id="@+id/tv_name"
-        android:layout_width="265dp"
-        android:layout_height="61dp"
-        android:layout_marginTop="16dp"
+        android:layout_width="352dp"
+        android:layout_height="39dp"
+        android:background="#FFFFFF"
         android:fontFamily="@font/aclonica"
-        android:lineSpacingExtra="8sp"
-        android:text="@string/glory_ejuojo_david_akubo"
+        android:text="@string/name"
         android:textAlignment="center"
-        android:textColor="#141313"
+        android:textColor="#141111"
         android:textSize="24sp"
-        app:layout_constraintEnd_toEndOf="@+id/iv_profile"
-        app:layout_constraintStart_toStartOf="@+id/iv_profile"
-        app:layout_constraintTop_toBottomOf="@+id/iv_profile" />
+        app:layout_constraintEnd_toEndOf="@+id/image"
+        app:layout_constraintHorizontal_bias="0.222"
+        app:layout_constraintStart_toStartOf="@+id/image"
+        app:layout_constraintTop_toBottomOf="@+id/image" />
+
+    <View
+        style="@style/Divider"
+        tools:ignore="MissingConstraints"
+        tools:layout_editor_absoluteX="2dp"
+        tools:layout_editor_absoluteY="286dp" />
 
 
-    <TextView
-        android:id="@+id/tv_track"
-        android:layout_width="223dp"
-        android:layout_height="40dp"
-        android:layout_marginTop="76dp"
-        android:fontFamily="@font/aclonica"
-        android:text="@string/track"
-        android:textAlignment="center"
-        android:textColor="#141313"
-        android:textSize="18sp"
-        android:textStyle="bold"
-        app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toTopOf="@+id/tv_name"
-        tools:ignore="MissingConstraints" />
-
-    <TextView
-        android:id="@+id/tv_country"
-        android:layout_width="199dp"
-        android:layout_height="42dp"
-        android:layout_marginTop="20dp"
-        android:fontFamily="@font/aclonica"
-        android:text="@string/country_nigeria"
-        android:textColor="#141313"
-        android:textSize="18sp"
-        android:textStyle="bold"
-        app:layout_constraintEnd_toEndOf="@+id/tv_track"
-        app:layout_constraintStart_toStartOf="@+id/tv_track"
-        app:layout_constraintTop_toBottomOf="@+id/tv_track" />
-
-    <TextView
-        android:id="@+id/tv_email"
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:layout_marginTop="20dp"
-        android:fontFamily="@font/aclonica"
-        android:text="@string/email"
-        android:textAlignment="center"
-        android:textColor="#141313"
-        android:textSize="18sp"
-        android:textStyle="bold"
-        app:layout_constraintEnd_toEndOf="@+id/tv_country"
-        app:layout_constraintStart_toStartOf="@+id/tv_country"
-        app:layout_constraintTop_toBottomOf="@+id/tv_country" />
-
-    <TextView
-        android:id="@+id/tv_phone"
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:layout_marginTop="20dp"
-        android:fontFamily="@font/aclonica"
-        android:text="@string/phone"
-        android:textColor="#141313"
-        android:textSize="18sp"
-        android:textStyle="bold"
-        app:layout_constraintEnd_toEndOf="@+id/tv_email"
-        app:layout_constraintStart_toStartOf="@+id/tv_email"
-        app:layout_constraintTop_toBottomOf="@+id/tv_email" />
-
-    <TextView
-        android:id="@+id/tv_slack"
-        android:layout_width="269dp"
-        android:layout_height="44dp"
-        android:layout_marginTop="20dp"
-        android:fontFamily="@font/aclonica"
-        android:text="@string/slack_glorydavid"
-        android:textAlignment="center"
-        android:textColor="#141313"
-        android:textSize="18sp"
-        android:textStyle="bold"
-        app:layout_constraintEnd_toEndOf="@+id/tv_phone"
-        app:layout_constraintStart_toStartOf="@+id/tv_phone"
-        app:layout_constraintTop_toBottomOf="@+id/tv_phone" />
-
-
+    <include
+        layout="@layout/profile_layout"
+        />
 </androidx.constraintlayout.widget.ConstraintLayout>
